@@ -6,8 +6,7 @@ An interactive Power BI dashboard designed to analyze BMW sales performance, cal
 
 ## 📊 Dashboard Preview
 
-<img width="861" height="491" alt="image" src="https://github.com/user-attachments/assets/df8e54db-5e23-40aa-ba56-4e1ea3a08bcf" />
-
+<img width="840" height="471" alt="image" src="https://github.com/user-attachments/assets/3389636a-7c1d-4816-ab12-7e847b4a6d9f" />
 
 ## 🎯 Project Objective
 
